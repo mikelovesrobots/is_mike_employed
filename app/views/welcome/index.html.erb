@@ -1,3 +1,5 @@
-<%= image_tag "mike.jpg" %>
-<h2><%= h @result %></h2>
-<div id="caption"><%= h @explanation %></div>
+<div class="span-16 append-2"><%= image_tag "mike.jpg", :width => 640, :height => 480 %></div>
+<div class="span-6 last">
+  <h2 id="electric-boogaloo"><%= h @result %></h2>
+  <div id="caption"><%= h @explanation %></div>
+</div>
