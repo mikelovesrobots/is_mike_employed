@@ -1,0 +1,93 @@
+
+Mike Judge
+17705 NE 96TH Way #2
+Redmond, WA 98052
+
+Phone: (425) 213-0097
+Email: mikelovesrobots@gmail.com
+Website: rubyminds.com
+
+
+## Summary of Qualifications
+
+I'm an accomplished Rails backend developer with a passion for programming 
+and a desire to make websites that people actually want to use rather
+than tolerate.
+
+
+## Professional Experience
+
+ActiveRain 
+Ruby on Rails "Magician"
+Kirkland WA
+Nov 2008 - Oct 2009
+
+* Built an auction-based cost-per-click ad system 
+* Refactored 125 huge raw find_by_sql calls into named_scopes
+* Brought the avatars for the site out of the dark ages using Paperclip, S3 and jCrop
+* Implemented a background queue job system with Sparrow 
+* Wrote a Rails 2.2 template handler for Liquid templates
+* Built a soft-exception-notification plugin for mailing exception traces without halting
+* Built the subscription and credit card processing code: comping, promotional codes, refunds, and manual charges
+* Committed 1,400+ miscellaneous changes and bug fixes to the common code base
+
+
+LuxuryRealEstate.com 
+Senior Rails Developer
+Seattle WA
+Nov 2007 - Nov 2008
+
+* Built MiamiRealEstate.com in 3 weeks
+* Introduced automated tests to the company
+* Migrated all (11) in-house Rails sites to EC2 and upgraded them to Rails 2.1 from Rails 1.1.6
+* Wrote all of the shopping cart, discount, and credit card processing code
+* Added Spanish, French and Italian translations to Regents.com
+* Committed 1,200+ updates and bug fixes to the common code base
+
+
+SurveyComplete
+Owner
+Redmond WA
+2002 - 2007
+
+* Repeat clients included Microsoft, Disney, Warner Bros, Kelley Blue Book, AAA of California, and Hyundai
+* Interviewed over 1m online respondents
+* Programmed over 300 high-end half-hour-long online surveys 
+* Built a Ruby DSL for composing questionnaires
+* Coded a Rails interviewing application that regularly served 60+ requests a second
+
+
+C.A.Walker & Associates 
+Lead Programmer / Data Analyst
+Burbank CA
+1999 - 2002
+
+* Programmed over 200 multi-page surveys
+* Tabulated the results of over 500 research studies
+* Built an online interviewing and reporting application 
+
+
+## Relevant Skills
+
+* Primary Languages:
+  * 4 Years of Ruby/Ruby on Rails 
+  * 6 Years of Perl (which I've been blissfully pretending never happened until now)
+  * 2 Years of C/C++ 
+
+* Related Skills:
+  * Front-end UI: HTML/XHTML, CSS, JQuery, Prototype
+  * SQL: Foreign Key Constraints, 3NF Normalization, Indexing
+  * Databases: MySQL, Postgres, Berkeley DB, CouchDB and Redis
+  * Caching strategies: Memcache, Memory, Disk, and DB Caching
+  * Queueing systems: Amazon SQS, Starling, Sparrow and Redis
+  * Searching databases: Solr (Lucene), Ferret
+  * Deployment/sysadmin scripting: Capistrano, Apache, mod_passenger/mod_rails, Mongrel, and Puppet
+  * Source Control: Git, SVN
+
+* Also experienced in:
+  * Making slow things fast
+  * Reducing duplication
+  * Finding easy wins
+
+Act now!
+
