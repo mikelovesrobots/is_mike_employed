@@ -2,6 +2,7 @@ defaults:
   site_name: "Is Mike Employed?"
   author_name: "Mike Judge"
   canonical_url: "http://ismikeemployed.com"
+  jobs_applied: 8
    
 development:
 

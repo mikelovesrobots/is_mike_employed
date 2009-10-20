@@ -182,3 +182,145 @@ Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:31:55) [GET]
 Rendering template within layouts/welcome
 Rendering welcome/index
 Completed in 9ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:35:12) [GET]
+
+NoMethodError (undefined method `time_ago_in_words' for #<WelcomeController:0x17c50a0>):
+  app/controllers/welcome_controller.rb:12:in `index'
+
+Rendered rescues/_trace (63.3ms)
+Rendered rescues/_request_and_response (4.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:36:56) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 146ms (View: 143 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:36:57) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:36:58) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 11ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:36:59) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 11ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:00) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:01) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:02) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:04) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 11ms (View: 8 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:05) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:06) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:15) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 52ms (View: 49 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:37:17) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 9ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:03) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:05) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:06) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:26) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:27) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:28) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:29) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 11ms (View: 7 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:57) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:38:59) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 6 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2009-10-19 21:39:10) [GET]
+Rendering template within layouts/welcome
+Rendering welcome/index
+Completed in 10ms (View: 7 | 200 OK [http://localhost/]
