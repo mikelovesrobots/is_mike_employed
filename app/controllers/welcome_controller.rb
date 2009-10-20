@@ -1,7 +1,5 @@
 class WelcomeController < ApplicationController
   def index
-    date_o_fire = Time.parse("10/19/09 9:33AM")
-
     @result = "No!"
     @explanation = [
       "... and you can help by finding me a Rails job in the Seattle area.",
@@ -16,10 +14,11 @@ class WelcomeController < ApplicationController
       "They laid off the whole tech department.  So it's not like I was the one guy who made everyone uncomfortable.",
       "... and I hope you lovely people know I'm trying to correct this.",
       "... but that may change soon...",
+      "I'm so bored.  I may start learning java soon.",
       "... but I can serve html with my bare hands, so I'm not too worried.",
       "So far I've applied for #{AppConfig.jobs_applied} Seattle Rails jobs.",
       "Aren't you impressed by this lovely Rails site?  You should hire me.",
-      "I applied for unemployment for the first time in my life today.",
+      "I applied for unemployment for the first time in my life, Monday.",
       "I once worked on a Rails site with 160 models, 120 controllers, and 25,000 lines of code.  No lie.",
       "I've been a Rails developer for 4 years now.",
       "I've helped build websites that sustain 5,000 users simultaneously.",
