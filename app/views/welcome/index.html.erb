@@ -1,6 +1,10 @@
 <div class="span-16 append-2">
   <%= link_to image_tag("mike.jpg", :width => 640, :height => 480, :title => "mikelovesrobots@gmail.com"), root_path %>
-  (<%= link_to "resume", "/mike-judge-resume.txt" %>)
+  (
+  <%= link_to "resume", "/mike-judge-resume.txt" %> | 
+  <%= link_to "twitter", "http://twitter.com/mikelovesrobots" %> | 
+  <%= link_to "github", "http://github.com/mikelovesrobots" %>
+  )
 </div>
 <div class="span-6 last">
   <h2 id="electric-boogaloo"><%= h @result %></h2>
