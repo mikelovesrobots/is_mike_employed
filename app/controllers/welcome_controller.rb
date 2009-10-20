@@ -8,6 +8,7 @@ class WelcomeController < ApplicationController
       "... and this scary face will just keep looking at you until I do.",
       "... wait, I got an email, maybe... no.",
       "... and frankly, I'm surprised.",
+      "I disabled all my favorite websites and put a ban on video games until this crisis passes.",
       "I'm not taking it personally.  It's just the economy or whatever.",
       "I'm looking forward to working on a new code base.  This is going to be awesome.",
       "I've been unemployed since Monday (Yes, of this week [10-19-2009], shesh.)",
