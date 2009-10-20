@@ -1,5 +1,5 @@
 set :application, "ismikeemployed"
-set :repository,  "git@github.com:mikelovesrobots/#{application}.git"
+set :repository,  "git@github.com:mikelovesrobots/is_mike_employed.git"
 
 # If you aren't deploying to /u/apps/#{application} on the target
 # servers (which is the default), you can specify the actual location
