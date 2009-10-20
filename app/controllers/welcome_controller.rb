@@ -29,7 +29,8 @@ class WelcomeController < ApplicationController
       "I'm using my free time wisely making things like this site.",
       "I take showers every day.  Sometimes twice.  I also brush my teeth twice a day and floss. I'm a winner.",
       "I should have known that no job with the title, \"Rails Magician\" could end well.",
-      "lol"
+      "lol",
+      "These aren't really random.  They rotate sequentially.  Try to catch them all!"
     ].rand
   end
 end
