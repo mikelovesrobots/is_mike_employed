@@ -14,6 +14,7 @@ class WelcomeController < ApplicationController
       "They laid off the whole tech department.  So it's not like I was the guy who made everyone uncomfortable.",
       "... and I hope you lovely people know I'm trying to correct this.",
       "So far I've applied for #{AppConfig.jobs_applied} Rails jobs",
+      "I'm tracking you with Google Analytics, and I'm going to show up at your house looking for work.",
       "But that could change if you hire me to work at your Seattle-based office on your Ruby on Rails site.",
       "I was laid-off after a week long vacation at Disneyland (where my wife and I married 6 years ago.)",
       "I'm using my time when not job hunting wisely, making things like this site."
