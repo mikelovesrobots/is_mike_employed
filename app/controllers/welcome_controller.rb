@@ -11,8 +11,9 @@ class WelcomeController < ApplicationController
       "I've been unemployed since Monday.",
       "... and I hope you lovely people know I'm trying to correct this.",
       "So far I've applied for #{AppConfig.jobs_applied} jobs",
-      "I was told I didn't have anything to worry about.",
-      "But that could change if you hire me to work at your Seattle-based office on your Ruby on Rails site."
+      "But that could change if you hire me to work at your Seattle-based office on your Ruby on Rails site.",
+      "I was laid-off after a week long vacation at Disneyland (where my wife and I married 6 years ago.)",
+      "I'm using my time when not job hunting wisely, making things like this site."
     ].rand
   end
 end
