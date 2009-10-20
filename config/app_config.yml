@@ -1,0 +1,10 @@
+defaults:
+  site_name: "Is Mike Employed?"
+  author_name: "Mike Judge"
+  canonical_url: "http://ismikeemployed.com"
+   
+development:
+
+staging:
+
+production:
