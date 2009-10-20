@@ -6,11 +6,12 @@ Redmond, WA 98052
 Phone: (425) 213-0097
 Email: mikelovesrobots@gmail.com
 Website: rubyminds.com
+Github: http://github.com/mikelovesrobots
 
 
 ## Summary of Qualifications
 
-I'm an accomplished Rails backend developer with a passion for programming 
+I'm an accomplished Rails back-end developer with a passion for programming 
 and a desire to make websites that people actually want to use rather
 than tolerate.
 
@@ -22,6 +23,7 @@ Ruby on Rails "Magician"
 Kirkland WA
 Nov 2008 - Oct 2009
 
+* Scaled the site to support 5,000 simultaneous users
 * Built an auction-based cost-per-click ad system 
 * Refactored 125 huge raw find_by_sql calls into named_scopes
 * Brought the avatars for the site out of the dark ages using Paperclip, S3 and jCrop
@@ -76,14 +78,15 @@ Burbank CA
   * 2 Years of C/C++ 
 
 * Related Skills:
-  * Front-end UI: HTML/XHTML, CSS, JQuery, Prototype
+  * Front-end UI: HTML/XHTML, CSS, AJAX, JQuery, Prototype
   * SQL: Foreign Key Constraints, 3NF Normalization, Indexing
   * Databases: MySQL, Postgres, Berkeley DB, CouchDB and Redis
   * Caching strategies: Memcache, Memory, Disk, and DB Caching
-  * Queueing systems: Amazon SQS, Starling, Sparrow and Redis
+  * Queueing platforms: Amazon SQS, Starling, Sparrow and Redis
   * Searching databases: Solr (Lucene), Ferret
   * Deployment/sysadmin scripting: Capistrano, Apache, mod_passenger/mod_rails, Mongrel, and Puppet
   * Source Control: Git, SVN
+  * Dabbled in: iPhone Apps/Objective-C, Common Lisp/Scheme, Erlang and Flash/AS3
 
 * Also experienced in:
   * Making slow things fast
