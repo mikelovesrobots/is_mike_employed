@@ -29,6 +29,7 @@ Nov 2008 - Oct 2009
 * Wrote a Rails 2.2 template handler for Liquid templates
 * Built a soft-exception-notification plugin for mailing exception traces without halting
 * Built the subscription and credit card processing code: comping, promotional codes, refunds, and manual charges
+* Maintained ActiveRain.com, a site with 160 models, 120 controllers and 25,000 lines of code
 * Committed 1,400+ miscellaneous changes and bug fixes to the common code base
 
 
