@@ -1,7 +1,7 @@
 
 Mike Judge
-17705 NE 96TH Way #2
-Redmond, WA 98052
+810 12th ave #420
+Seattle, WA 98122
 
 Phone: (425) 213-0097
 Email: mikelovesrobots@gmail.com
@@ -11,12 +11,36 @@ Github: http://github.com/mikelovesrobots
 
 ## Summary of Qualifications
 
-I'm an accomplished Rails back-end developer with a passion for programming 
-and a desire to make websites that people actually want to use rather
-than tolerate.
+I'm an accomplished Rails back-end (and front-end) developer with a passion for programming 
+and a desire to make websites that people actually want to use rather than simply tolerate.
 
 
 ## Professional Experience
+
+Substantial
+Creator
+Seattle WA
+Oct 2009 - Present
+
+* Implemented the front-end redesign of BigChampagne.com
+* Refactored the back-end of BigChampagne.com to support their denormalized relational database design
+* Maintained BigChampagne.com and closed out over 300 bugs and feature requests
+* Worked alongside another senior developer in adding community features to OpsCode.com
+* Maintained Substantial.com and added Twitter and Last.FM integration
+* Built the back-end REST API (and image processing) for the "Awwwsum" iPhone app
+* Deployed and built the server infrastructure for method.com
+* Deployed InternetWeekNY.com
+
+
+Side Projects
+Oct 2009 - Present
+* RubyMinds.com - My simple bookmarks collection implemented with a Redis backend
+* GetAdvice.com - Simple anonymous Q&A site
+* robot_enumarables - ruby syntactic sugar for clearer list compositions
+* paperclip_validations - adds validations for image size to Paperclip
+* Places I've Pooped - $0.99 iPhone app
+* Places I Think I've Been Drunk - $0.99 iPhone app
+* Places I've Had Sex - $0.99 iPhone app
 
 ActiveRain 
 Ruby on Rails "Magician"
@@ -55,9 +79,9 @@ Redmond WA
 2002 - 2007
 
 * Repeat clients included Microsoft, Disney, Warner Bros, Kelley Blue Book, AAA of California, and Hyundai
-* Interviewed over 1m online respondents
+* Interviewed over 1-million online respondents
 * Programmed over 300 high-end half-hour-long online surveys 
-* Built a Ruby DSL for composing questionnaires
+* Built a Ruby DSL for composing questionnaires quickly
 * Coded a Rails interviewing application that regularly served 60+ requests a second
 
 
@@ -74,18 +98,19 @@ Burbank CA
 ## Relevant Skills
 
 * Primary Languages:
-  * 4 Years of Ruby/Ruby on Rails 
-  * 6 Years of Perl (which I've been blissfully pretending never happened until now)
+  * 5 Years of Ruby/Ruby on Rails 
+  * 6 Years of Perl (which I've been blissfully pretending never happened)
   * 2 Years of C/C++ 
 
 * Related Skills:
-  * Front-end UI: HTML/XHTML, CSS, AJAX, JQuery, Prototype
-  * SQL: Foreign Key Constraints, 3NF Normalization, Indexing
+  * Front-end UI: HTML 5/XHTML, CSS, Javascript/AJAX, jQuery, Ext.js and Prototype
+  * SQL: Foreign Key Constraints, 3NF Normalization, Indexing, Partitioning
   * Databases: MySQL, Postgres, Berkeley DB, CouchDB and Redis
-  * Caching strategies: Memcache, Memory, Disk, and DB Caching
+  * Caching strategies: Memcache, Memory, Disk, and Database Caching
   * Queueing platforms: Amazon SQS, Starling, Sparrow and Redis
-  * Searching databases: Solr (Lucene), Ferret
-  * Deployment/sysadmin scripting: Capistrano, Apache, mod_passenger/mod_rails, Mongrel, and Puppet
+  * Local search databases: Solr (Lucene), Ferret, MySQL fulltext
+  * Deployment: Capistrano, Apache, mod_passenger/mod_rails, Mongrel and Unicorn
+  * Sysadmin scripting: Puppet and Chef
   * Source Control: Git, SVN
   * Dabbled in: iPhone Apps/Objective-C, Common Lisp/Scheme, Erlang and Flash/AS3
 
