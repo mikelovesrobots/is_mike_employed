@@ -1,7 +1,7 @@
 class WelcomeController < ApplicationController
   def index
-    @result = "Yes!"
-    @explanation = "I'm now working for Substantial.com in Capital Hill.  Pretty sweet."
+    @result = "Extremely!"
+    @explanation = "I've been working for Substantial.com in Capital Hill for over a year now.  Pretty sweet."
     #@result = "No!"
     #@explanation = [
     #  "... and you can help by finding me a Rails job in the Seattle area.",
