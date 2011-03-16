@@ -1,6 +1,6 @@
 
 Mike Judge
-810 12th ave #420
+810 12th Ave #420
 Seattle, WA 98122
 
 Phone: (425) 213-0097
@@ -41,6 +41,7 @@ Oct 2009 - Present
 * Places I've Pooped - $0.99 iPhone app
 * Places I Think I've Been Drunk - $0.99 iPhone app
 * Places I've Had Sex - $0.99 iPhone app
+
 
 ActiveRain 
 Ruby on Rails "Magician"
